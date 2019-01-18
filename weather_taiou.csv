@@ -1,0 +1,73 @@
+200,thunderstorm with light rain,‰J‚ª~‚é—‹‰J
+201,thunderstorm with rain,‰J‚ª~‚é—‹‰J
+202,thunderstorm with heavy rain,‹‰J‚É‚æ‚é—‹‰J
+210,light thunderstorm,—‹‰J
+211,thunderstorm,—‹‰J
+212,heavy thunderstorm,d‚¢—‹‰J
+221,ragged thunderstorm,r‚ê‚½—‹‰J
+230,thunderstorm with light drizzle,ƒ‰ƒCƒgEƒfƒBƒ‰ƒCƒg‚Æ—‹‰J
+231,thunderstorm with drizzle,—‹‰J‚Æ–¶‰J
+232,thunderstorm with heavy drizzle,d‚¢–¶‰J‚Å—‹‰J
+300,light intensity drizzle,Œõ“x‚Ì–¶‰J
+301,drizzle,–¶‰J
+302,heavy intensity drizzle,d‚¢–¶‰J‚Ì–¶
+310,light intensity drizzle rain,Œõ“x‚Ì–¶‰J
+311,drizzle rain,–¶‰J
+312,heavy intensity drizzle rain,‹­‚¢–¶‰J
+313,shower rain and drizzle,ƒVƒƒƒ[‚Ì‰J‚Æ–¶‰J
+314,heavy shower rain and drizzle,d‚¢ƒVƒƒƒ[‚Ì‰J‚Æ–¶‰J
+321,shower drizzle,ƒVƒƒƒ[‚Ì–¶‰J
+500,light rain,¬‰J
+501,moderate rain,’†’ö“x‚Ì‰J
+502,heavy intensity rain,‹­‚¢‰J
+503,very heavy rain,”ñí‚É‹‰J
+504,extreme rain,‹É’[‚È‰J
+511,freezing rain,“€‚é‰J
+520,light intensity shower rain,Œõ‚Ì‹­‚³
+521,shower rain,ƒVƒƒƒ[‚Ì‰J
+522,heavy intensity shower rain,[‚ÈƒVƒƒƒ[‚Ì‰J
+531,ragged shower rain,r‚ê‚½ƒVƒƒƒ[ƒŒƒCƒ“
+600,light snow,¬á
+601,snow,á
+602,heavy snow,‘åá
+611,sleet,‚Ê‚¢‚®‚é‚İ
+612,shower sleet,ƒVƒƒƒ[Qº
+615,light rain and snow,–¾‚é‚¢‰J‚Æá
+616,rain and snow,‰J‚Æá
+620,light shower snow,ŒõƒVƒƒƒ[á
+621,shower snow,ƒVƒƒƒ[‚ğ—‚Ñ‚é
+622,heavy shower snow,‘åáƒVƒƒƒ[
+701,mist,ƒ~ƒXƒg
+711,smoke,‰Œ
+721,haze,ƒwƒCƒY
+731,sand,»A•²où‰ñ
+741,fog,–¶
+751,sand,»
+761,dust,‚Ù‚±‚è
+762,volcanic ash,‰ÎRŠD
+771,squalls,ƒXƒR[ƒ‹
+781,tornado,—³Šª
+800,clear sky,°“V
+801,few clouds,‰_‚ª­‚È‚¢
+802,scattered clouds,U‚Á‚½‰_
+803,broken clouds,‰ó‚ê‚½‰_
+804,overcast clouds,“Ü‚Á‚½‰_
+900,tornado,—³Šª
+901,tropical storm,”M‘Ñ’á‹Cˆ³
+902,hurricane,ƒnƒŠƒP[ƒ“
+903,cold,ƒR[ƒ‹ƒh
+904,hot,ƒzƒbƒg
+905,windy,•—‚ª‹­‚¢
+906,hail,è¹
+951,calm,—‚¿’…‚¢‚½
+952,light breeze,Œy‚¢•—
+953,gentle breeze,‚»‚æ•—
+954,moderate breeze,’†•—
+955,fresh breeze,V‘N‚È•—
+956,strong breeze,‹­‚¢•—
+957,high wind,‚•—A‹ß‚­‚Ì–\•—
+958,gale,ƒK[ƒ‹
+959,severe gale,[‚È–\•—
+960,storm,—’
+961,violent storm,–\•—‰J
+962,hurricane,ƒnƒŠƒP[ƒ“
